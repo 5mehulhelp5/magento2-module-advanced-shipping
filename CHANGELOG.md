@@ -6,7 +6,7 @@ Module: `owebia/magento2-module-advanced-shipping`
 ### 6.1.4 (20 Aug, 2025)
 - fix `MethodCollection` usage in `foreach`
 - update dependencies
-  - `owebia/magento2-module-shared-php-config:6.1.4`: fix `ArrayWrapper` class should implement `IteratorAggregate` to allow usage in `foreach`
+  - `owebia/magento2-module-shared-php-config:6.1.4`: fix `ArrayWrapper` class should implement `IteratorAggregate` to allow usage in `foreach` (thanks to Yonn T.)
 
 ### 6.1.3 (21 Jul, 2025)
 - update dependencies
